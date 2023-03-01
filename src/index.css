@@ -5,3 +5,7 @@
 body {
   display: inherit;
 }
+
+.write-note-module-height {
+  height: calc(100% - 64px);
+}
